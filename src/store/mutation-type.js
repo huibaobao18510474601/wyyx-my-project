@@ -1,0 +1,1 @@
+export const UPDATA_HOME_USER='updata_home_user';
